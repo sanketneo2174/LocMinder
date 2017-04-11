@@ -1,0 +1,7 @@
+#Sat Mar 18 16:42:36 IST 2017
+base.0=C\:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_80b1fd1148abf49815a4a2da2a6f8f574db8fbd1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e77027c71eb6553c91b776dfc648bcb8f091d462\\classes.dex
+base.1=C\:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e77027c71eb6553c91b776dfc648bcb8f091d462
+file.0=C\:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_80b1fd1148abf49815a4a2da2a6f8f574db8fbd1\\classes.dex

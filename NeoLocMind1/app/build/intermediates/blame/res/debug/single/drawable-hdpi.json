@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_location.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_place.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_place.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_location_hover_reverse.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_location_hover_reverse.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_home.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_settings.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home1.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_home1.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_name.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_favourite.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_contacts.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_call.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\DELL-PC\\AndroidStudioProjects\\NeoLocMind1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png"
+    }
+]
